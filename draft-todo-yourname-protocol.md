@@ -64,7 +64,7 @@ TODO Abstract
 
 # Introduction
 
-TODO Introduction
+Because whatever
 
 
 # Conventions and Definitions
